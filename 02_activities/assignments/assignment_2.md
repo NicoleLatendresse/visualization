@@ -14,8 +14,8 @@
 ## Good Vidualization
 https://public.tableau.com/app/profile/serena.purslow/viz/ThePriceofProsperity-C02emissionsGDPandPopulationtrendsGlobally/PriceofProsperity
       
-![Good Visualization](<Price of Prosperity.png>)
-    
+<img width="1365" height="899" alt="Price of Prosperity" src="https://github.com/user-attachments/assets/6263788d-cd97-45f5-9bf3-891ced27aacf" />
+ 
 ### What makes this a good visualization?
 
 **Aesthetic: Good use of colour and placement**
@@ -38,7 +38,7 @@ Although it is clear that the visualization has a clear takeaway, that CO2 emiss
 ## Bad Visualization
 https://public.tableau.com/app/profile/spec.bi/viz/HealthInsuranceDashboard_15943803590210/HealthInsuranceAnalysis
 
-![Bad Visualization](<Health Insurance Analysis.png>)
+<img width="2494" height="1090" alt="Health Insurance Analysis" src="https://github.com/user-attachments/assets/d0b0f151-9e65-4dd9-a424-a889b8b8f507" />
 
 ### What makes this a bad visualization?
 
