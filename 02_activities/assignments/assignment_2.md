@@ -11,7 +11,7 @@
     - Explain (with reference to material covered up to date, along with readings and other scholarly sources, as needed) why you classified that visualization the way you did.
       ```
 
-## Good Vidualization
+## Good Visualization
 https://public.tableau.com/app/profile/serena.purslow/viz/ThePriceofProsperity-C02emissionsGDPandPopulationtrendsGlobally/PriceofProsperity
       
 <img width="1365" height="899" alt="Price of Prosperity" src="https://github.com/user-attachments/assets/6263788d-cd97-45f5-9bf3-891ced27aacf" />
